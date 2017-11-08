@@ -13,8 +13,8 @@ cd ~/.vim/bundle
 git clone git://github.com/altercation/vim-colors-solarized.git
 
 # install other plugin
-git clone https://github.com/vim-airline/vim-airline.git ~/.vim/bundle
-git clone https://github.com/vim-airline/vim-airline-themes.git ~/.vim/bundle
+git clone https://github.com/vim-airline/vim-airline.git ~/.vim/bundle/vim-airline
+git clone https://github.com/vim-airline/vim-airline-themes.git ~/.vim/bundle/vim-airline-themes
 git clone https://github.com/scrooloose/nerdtree.git ~/.vim/bundle/nerdtree
 
 
